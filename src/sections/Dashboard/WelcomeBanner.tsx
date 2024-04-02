@@ -113,7 +113,7 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://t.me/solsinoxyz', '_blank')}>
           👨‍💻 Join the community on Telegram
         </button>
-        <button onClick={() => window.open('https://www.docs.solsino.xyz', '_blank')}>
+        <button onClick={() => window.open('https://docs.solsino.xyz/', '_blank')}>
           💬 Read our docs
         </button>
       </Buttons>
