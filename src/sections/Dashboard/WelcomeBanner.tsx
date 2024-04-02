@@ -106,13 +106,13 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://x.com/solsinoxyz/', '_blank')}>
+        <button onClick={() => window.open('https://www.x.com/solsinoxyz/', '_blank')}>
           🚀 Join the Community on X
         </button>
-        <button onClick={() => window.open('https://t.me/solsino.xyz', '_blank')}>
+        <button onClick={() => window.open('https://www.t.me/solsino.xyz', '_blank')}>
           👨‍💻 Join the Community on Telegram
         </button>
-        <button onClick={() => window.open('https://pump.fun', '_blank')}>
+        <button onClick={() => window.open('https://www.pump.fun', '_blank')}>
           💬 Fair Launch on Pump.Fun
         </button>
       </Buttons>
