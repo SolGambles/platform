@@ -108,13 +108,13 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={() => window.open('https://www.x.com/solsinoxyz/', '_blank')}>
-          🚀 Join the Community on X
+          🚀 Join the community on X
         </button>
         <button onClick={() => window.open('https://www.t.me/solsino.xyz', '_blank')}>
-          👨‍💻 Join the Community on Telegram
+          👨‍💻 Join the community on Telegram
         </button>
         <button onClick={() => window.open('https://www.docs.solsino.xyz', '_blank')}>
-          💬 Read our Docs
+          💬 Read our docs
         </button>
       </Buttons>
     </Welcome>
