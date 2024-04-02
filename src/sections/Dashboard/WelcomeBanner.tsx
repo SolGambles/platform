@@ -102,7 +102,7 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Solsino 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana. Fair launch on Pump.Fun
+          A fair, simple and decentralized casino on Solana. Fair launch on Pump.Fun.
           Join the Community to stay up to date about our launch and the initial liquidity pool.
         </p>
       </div>
