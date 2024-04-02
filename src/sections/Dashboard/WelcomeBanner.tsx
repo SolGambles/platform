@@ -102,7 +102,8 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Solsino 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana. Fair Launch on Pump.Fun
+          A fair, simple and decentralized casino on Solana. Fair launch on Pump.Fun
+          Join the Community to stay up to date about our launch and the initial liquidity pool.
         </p>
       </div>
       <Buttons>
@@ -112,8 +113,8 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://www.t.me/solsino.xyz', '_blank')}>
           👨‍💻 Join the Community on Telegram
         </button>
-        <button onClick={() => window.open('https://www.pump.fun', '_blank')}>
-          💬 Fair Launch on Pump.Fun
+        <button onClick={() => window.open('https://www.docs.solsino.xyz', '_blank')}>
+          💬 Read our Docs
         </button>
       </Buttons>
     </Welcome>
